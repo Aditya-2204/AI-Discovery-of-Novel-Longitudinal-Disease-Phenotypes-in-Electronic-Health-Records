@@ -25,13 +25,13 @@ The project applies a combination of:
 - Synthetic MIMIC-IV or real-world longitudinal EHR datasets (HIPAA-compliant).
 - Focus on adults with ≥5 years of medical history and multi-disease profiles.
 
-## 💡 Goals & Outcomes
+## Goals & Outcomes
 
 - Identify interpretable latent phenotypes linked to multiple diseases.
 - Validate phenotypes using clinical characteristics and known medical knowledge.
 - Build a phenotype-aware prediction model for future disease risk.
 
-## 📊 Tools & Frameworks
+## Tools & Frameworks
 
 - Python, PyTorch, scikit-learn, pandas, NumPy
 - Hugging Face Transformers (for patient sequence modeling)
