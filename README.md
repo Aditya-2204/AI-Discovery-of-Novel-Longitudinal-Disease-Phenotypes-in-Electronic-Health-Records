@@ -1,6 +1,6 @@
 # AI Discovery of Novel Longitudinal Disease Phenotypes in Electronic Health Records
 
-This research project explores the use of advanced artificial intelligence (AI) techniques to identify novel, previously unknown longitudinal disease phenotypes from Electronic Health Records (EHRs). It aims to uncover hidden patterns and disease clusters that occur over time, offering new insights into complex patient journeys and improving predictive medicine.
+This research project explores the use of advanced artificial intelligenc techniques to identify novel, previously unknown longitudinal disease phenotypes from Electronic Health Records (EHRs). It aims to uncover hidden patterns and disease clusters that occur over time, offering new insights into complex patient journeys and improving predictive medicine.
 
 ## Research
 
