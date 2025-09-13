@@ -20,7 +20,7 @@ The project applies a combination of:
 
 ### Data Source
 
-- MIMIC IV Dataset.
+- MIMIC IV Dataset (Demo).
 - Focus on adults with ≥5 years of medical history and multi-disease profiles.
 
 ## Goals & Outcomes
