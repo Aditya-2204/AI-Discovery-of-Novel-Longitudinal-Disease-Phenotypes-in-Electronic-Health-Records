@@ -26,10 +26,9 @@ The project applies a combination of:
 ## Goals & Outcomes
 
 - Identify interpretable latent phenotypes linked together over time.
-- Validate phenotypes using clinical characteristics and known medical knowledge.
-- Build a phenotype-aware prediction model for future disease risk.
+- Validate phenotypes using reverse engineering dimensionality reduction
 
 ## Tools & Frameworks
 
-- Python, scikit-learn, pandas, NumPy
+- Python, scikit-learn, pandas, NumPy, TS2Vec
 - Jupyter Notebooks & Colab for prototyping
